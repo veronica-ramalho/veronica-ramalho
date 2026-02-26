@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Prazer, meu nome é Verônica, sou de São Paulo, estudante do ensino médio</p>
+<p align="left">Prazer, meu nome é Verônica, moro em São Paulo, estudante do ensino médio</p>
 
 ###
 
